@@ -4,13 +4,13 @@ import java.util.List;
 
 public class BirdImplementation implements BirdActions {
 
-    public void allBirds(List<Birds> birdsList){
+    public void allBirds(List<Bird> birdList){
 
         System.out.println("\n All birds: ");
 
-        for (Birds birds : birdsList){
+        for (Bird bird : birdList){
 
-            System.out.println(birds.getName());
+            System.out.println(bird.getName());
 
         }
 
@@ -24,9 +24,9 @@ public class BirdImplementation implements BirdActions {
 
     }
 
-    public void actionBirds(Birds birds){
+    public void actionBirds(Bird bird){
 
-        System.out.println("\n " + birds.toString());
+        System.out.println("\n " + bird.toString());
         walk();
         eat();
         fly();

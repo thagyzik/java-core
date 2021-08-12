@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b9f7f14-5792-4fe6-9174-c0ad2f54856a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/java/entities/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/java/BirdMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/java/BirdMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/java/application/BlueArara.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/java/application/BlueArara.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/java/application/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/java/application/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/java/application/Flamingo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/java/application/Flamingo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/java/entities/BirdImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/java/entities/BirdImplementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/java/entities/Birds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/java/entities/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/java/BirdMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/java/BirdMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/java/application/BlueArara.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/java/application/BlueArara.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/java/application/Chicken.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/java/application/Chicken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/java/application/Flamingo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/java/application/Flamingo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/java/entities/BirdImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/java/entities/BirdImplementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/java/entities/Birds.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1wdpxiTX6REEuG1Gv1uZtVhnO04" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.BirdMain" />
+      <module name="java-core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b9f7f14-5792-4fe6-9174-c0ad2f54856a" name="Default Changelist" comment="" />
+      <created>1628798568018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628798568018</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628798605113">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1628798605113" />
+    <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1628798603528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1628798603528" />
+  </component>
+</project>

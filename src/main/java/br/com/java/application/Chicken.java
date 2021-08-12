@@ -1,8 +1,8 @@
 package br.com.java.application;
 
-import br.com.java.entities.Birds;
+import br.com.java.entities.Bird;
 
-public class Chicken extends Birds {
+public class Chicken extends Bird {
 
     @Override
     public Integer qtdBirds(Integer qtdNewBirds) {
